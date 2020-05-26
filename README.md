@@ -3,7 +3,7 @@
 This folder contains the separate codes for the tensor decomposition algorithms CPD, tensor train (TT) and tensor ring (TR) as well as the results of these. 
 Moreover, it includes a FFNN as comparison model for our classification problem. Regarding the regression model, the [Alternating Least Squares TT](https://github.com/kbatseli/TTClassifier) was used .
 
-Additionally, it contains scripts doing classification and regression using the three models.
+Additionally, it contains scripts doing classification and regression using the three models. 
 
 ## Data sets
 
